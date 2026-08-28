@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/6583ba940d3ce817.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap","style"]
+:HL["/companies/kilimotech.svg","image"]
+0:{"buildId":"8QK9oaQV65v5JM7EBgVLj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"companies","paramType":null,"paramKey":"companies","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"kilimo-tech","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

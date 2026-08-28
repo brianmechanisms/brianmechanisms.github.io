@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[74426,["/_next/static/chunks/5100593b5f5d96b9.js","/_next/static/chunks/beefb697acdd731a.js"],""]
+3:I[19091,["/_next/static/chunks/5100593b5f5d96b9.js","/_next/static/chunks/beefb697acdd731a.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"8QK9oaQV65v5JM7EBgVLj","rsc":["$","$1","c",{"children":[["$","section",null,{"className":"mx-auto max-w-xl px-6 py-24","children":[["$","h1",null,{"className":"text-4xl font-extrabold","children":"This page does not exist."}],["$","p",null,{"className":"mt-4 text-lg text-[var(--color-ink-soft)]","children":"The address may have changed when the site was rebuilt. The products page lists everything we build."}],["$","$L2",null,{"href":"/products","className":"btn-primary mt-6 inline-block","children":"See our products"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
