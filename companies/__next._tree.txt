@@ -1,8 +1,8 @@
-:HL["/_next/static/chunks/6583ba940d3ce817.css","style"]
+:HL["/_next/static/chunks/b1a7a00ed1bf5d6a.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800;900&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap","style"]
 :HL["/companies/pharaas.svg","image"]
 :HL["/companies/sojaly.svg","image"]
 :HL["/companies/kilimotech.svg","image"]
 :HL["/companies/metriq.svg","image"]
 :HL["/companies/metrotel.svg","image"]
-0:{"buildId":"yZaU3608TtibZAeKql773","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"companies","paramType":null,"paramKey":"companies","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"66OGJgI6C9QgwuX8sTiwi","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"companies","paramType":null,"paramKey":"companies","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
